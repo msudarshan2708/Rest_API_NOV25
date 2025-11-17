@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-12T23:16:47 IST" name="Command line suite" finished-at="2025-11-12T23:16:53 IST" duration-ms="5862">
+    <groups>
+    </groups>
+    <test started-at="2025-11-12T23:16:47 IST" name="Command line test" finished-at="2025-11-12T23:16:53 IST" duration-ms="5862">
+      <class name="Tests.AuthTest">
+        <test-method signature="verifyTokenGeneration()[pri:0, instance:Tests.AuthTest@3c153a1]" started-at="2025-11-12T23:16:47 IST" name="verifyTokenGeneration" finished-at="2025-11-12T23:16:53 IST" duration-ms="5795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTokenGeneration -->
+      </class> <!-- Tests.AuthTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
