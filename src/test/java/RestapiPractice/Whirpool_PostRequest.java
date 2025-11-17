@@ -17,6 +17,7 @@ public class Whirpool_PostRequest {
 		Response Resp = given().when().get().then().extract().response();
 		JsonPath values = Resp.jsonPath();
 		System.out.println(values.get());
+		//made some changes in github to check or take a latets pull
 	}
 
 }
